@@ -1,1 +1,2 @@
- Welcome to main page
+Welcome to main page
+Welcome to Dashboard Page
